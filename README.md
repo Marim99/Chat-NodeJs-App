@@ -2,7 +2,7 @@
 
 chat app Using node & express
 
-(see Website)[https://chat-app-mariamk.onrender.com/]
+[see Website](https://chat-app-mariamk.onrender.com/)
 
 ## Demo video 
 
